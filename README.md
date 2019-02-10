@@ -1,4 +1,4 @@
 # SNU
-Homework of SNU homework
+Homework of SNU lectures
 
 ## Introduction to Atomospheric Chemistry

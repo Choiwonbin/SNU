@@ -6,6 +6,7 @@ Homework of Introduction of Atmospheric Chemicals for 1st semester of 2018
 
 - IAC_HW1.ipynb: Contour Plot
 - IAC_HW2.ipynb: Line & Stacked Bar Plot
+- IAC_HW3.ipynb: Advection Equation 
 
 ## Introduction to IoT, AI and Big Data
 Lecture Note of Introduction to IoT, AI and Big Data(2018)
